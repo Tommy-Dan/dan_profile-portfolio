@@ -13,8 +13,8 @@ const data = [
         id: 1,
         image: IMG1,
         title: 'Scientific calculator',
-        github: 'https://github.com',
-        demo: 'https://dribble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+        github: 'https://github.com/Tommy-Dan/scientific-calc',
+        demo: 'https://complexnumberscientificcalc.netlify.app/'
     },
     {
         id: 2,
@@ -27,8 +27,8 @@ const data = [
         id: 3,
         image: IMG3,
         title: 'Snake Bite Game',
-        github: 'https://github.com',
-        demo: 'https://dribble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+        github: 'https://github.com/Tommy-Dan/snake-bite-game',
+        demo: 'https://snakebitegame.netlify.app/'
     },
     {
         id: 4,
